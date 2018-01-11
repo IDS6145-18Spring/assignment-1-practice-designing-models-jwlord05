@@ -2,7 +2,7 @@
 (remove: **text between brackets to be removed**)
 
 > * Participant name: John Lord
-> * Project Title: (Title of the problem you are looking and modeling)
+> * Project Title: Ideas will come!!
 
 ## General Introduction
 
