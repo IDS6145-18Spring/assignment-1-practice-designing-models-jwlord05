@@ -1,8 +1,8 @@
 # Assignment1 - Practice Designing Models (Template)
-(remove: **text between brackets to be removed**)
+
 
 > * Participant name: John Lord
-> * Project Title: Ideas will come!!
+> * Project Title: A Smart City Creates Green Space or Traffic Lights?
 
 ## General Introduction
 
@@ -13,6 +13,11 @@ A **smart city** is an urban area that uses different types of electronic data c
 (remove: States your motivation clearly: why is it important / interesting to solve this problem?)
 (remove: Add real-world examples, if any)
 (remove: Put the problem into a historical context, from what does it originate? Are there already some proposed solutions?)
+
+Garden City:
+https://www.theguardian.com/sustainable-business/2015/apr/20/garden-cities-can-green-spaces-bring-health-and-happiness
+http://smartgrowth.org/6-urban-green-space-projects-that-are-revitalizing-u-s-cities/
+https://www.youtube.com/watch?v=ZORzsubQA_M
 
 ## Requirements (Experimental Design)
 
