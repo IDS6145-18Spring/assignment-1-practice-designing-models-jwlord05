@@ -25,7 +25,35 @@ https://www.youtube.com/watch?v=ZORzsubQA_M
 
 (remove: You should start by specifying a set of requirements. I specified a topic Smart Cities but what exactly does that mean-  you should practice formulating your own set of requirements and an experiment. Define a hypothesis of a problem cities face and how a smart city would possibly help alleviate this issue. This helps you think about your problem communication and system objectives inputs, functions, and outputs - they should be clearly specified.)
 
-
+A major problem cities face is overcrowding, pollution and lack of recreation.  The flip side is access to urban areas.  This paper proposes the following experiment.  Can the creation of green space be conducted while still maintaining a reasonable access?  The requirements follow:
+1)  Given an urban area of (n) size wherein all the streets are closed to public traffic.
+2)  Given public transportation is available (scalable) in the same area.
+     a)  Public transportation includes public tram (electric/natural gas) with variable routes through area.
+          1 - tram includes THREE cars (can vary?)
+          2 - tram can carry 25 comuters per car
+          3 - tram can travel 15 mph
+     b)  public bike rentals available at variable locations throughout area
+          1 - bikes can only carry ONE passanger
+          2 - bikes can only travel 5 mph
+          3 - bikes can only travel on bike path
+     c)  Public bike/pedestrian paths delineated throughout area (set)
+          1 - pedestrians can only travel on pedestrian path
+          2 - pedestrians can only travel 2.5 mph
+3)  Commuter debarkation points set; no more than four (4)
+4) Public interaction random AND set  -- population (p) size feasible for area (n) of consideration!
+     a)  random population living within urban area traversing area from point A (home) to point B (work)
+     b)  random population commute to debarkation point (parking garage) and traversing area from point A (parking garage) to point B (work)
+     c)  random population utilizing green space with no start or end destination
+     c)  All population randomly utilizing three modes of transpiration: 1) walking paths, 2) bike lanes (rental bikes) 3) public tram
+5)  Population movement times set
+     a)  small percentage (10%) of population movement constantly between 0600-2300 –represents misc population
+     b)  random percentage (15-30%) of population movement between 0900-2300  -- represents population utilizing businesses and green space
+     c)  working population (55%) movement between 0630-0900 (morning), 1130-1300 (lunch), and 1430-1730 (evening)
+6)  All buildings within (n) area identified
+     a) office buildings
+     b) residential buildings
+     c) lunch/dinner/entertainment building
+7)  Must compute and report average time for commuters to traverse from point A to point B
 
 
 
