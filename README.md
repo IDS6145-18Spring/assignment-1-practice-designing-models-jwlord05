@@ -55,15 +55,13 @@ A major problem cities face is overcrowding, pollution and lack of recreation.  
      c) lunch/dinner/entertainment building
 7)  Must compute and report average time for commuters to traverse from point A to point B
 
-
-
 ## Smart City (My Problem) Model
 
 (remove: add a high-level overview of your model, the part below should link to the model directory markdown files)
 (remove: Look at the [**Object Diagram**](model/object_diagram.md) for how to structure this part of Part 2 for each diagram. Only the Object diagram has the template, the rest are blank. )
 
-* [**Object Diagram**](model/object_diagram.md) - provides the high level overview of components
-* [**Class Diagram**](model/class_diagram.md) - provides details of (what are you providing details of)
+* [**Object Diagram**](model/object_diagram_green.md) - provides the high level overview of components
+* [**Class Diagram**](model/class_diagram_green.md) - provides details of (what are you providing details of)
 * [**Behavior Diagram**](model/behavior_diagram.md) - provides details of (what are you providing details of)
 * [**Agent / User case** (if appropriate)](model/agent_usecase_diagram.md) - provides details of (what are you providing details of)
 

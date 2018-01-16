@@ -6,7 +6,10 @@ A Smart City is a Green City.  Smart City Object Diagram
 (remove: use images!!!)
 (remove: I added an example image to illustrate [**how to use Markdown**](https://guides.github.com/features/mastering-markdown/), maybe consider a tool like [**Haroodpad**](http://pad.haroopress.com/user.html) )
 
-![Example Object Diagram](../images/smart city object diagram.png)
+![Example Object Diagram](../images/smart_city_class_transport.png)
+
+
+![Example Object Diagram](../images/smart_city_class_building.png)
 
 (remove: More decription)
 (remove: Maybe a second or third diagram to highlight a point or aspect)
