@@ -57,17 +57,19 @@ A major problem cities face is overcrowding, pollution and lack of recreation.  
 
 ## Smart City (My Problem) Model
 
-(remove: add a high-level overview of your model, the part below should link to the model directory markdown files)
-(remove: Look at the [**Object Diagram**](model/object_diagram.md) for how to structure this part of Part 2 for each diagram. Only the Object diagram has the template, the rest are blank. )
+The idea is to model a green space within an urban area in order to simulate the time it takes for commuters to travel from the "commuter hub" to their respective (random) employment locations.  Within the model it is necessary to provide resources wihtin the green zone for transportation and competing entity requirements for the resources.  The resources modeled are pedestrian paths, bike paths and tram paths.  The competing entities are shoppers (MISC) and residents.
 
 * [**Object Diagram**](model/object_diagram_green.md) - provides the high level overview of components
-* [**Class Diagram**](model/class_diagram_green.md) - provides details of (what are you providing details of)
+* [**Class Diagram**](model/class_diagram_green.md) - provides details of verables and functions related to the Object Diagram
+
+These diagrams are not used (Behavior and Agent)
+
 * [**Behavior Diagram**](model/behavior_diagram.md) - provides details of (what are you providing details of)
 * [**Agent / User case** (if appropriate)](model/agent_usecase_diagram.md) - provides details of (what are you providing details of)
 
 ## Smart City (My Problem) Simulation
 
-(remove: for part 3 add two to three sentences here and link the [**(your own name)**](model/README.md) file in the analysis folder - which describe how you would simulate this - type of simulation, rough details -inputs, outputs - how it will help you analyze your experimental hypothesis, or nullify your null hypothesis.)
+The attached MD file explains what type of simluation is used and why: [**John Lord**](analysis/John Lord.md) 
 
 
 ## Smart City (My Problem) Model
