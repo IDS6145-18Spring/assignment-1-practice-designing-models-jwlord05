@@ -23,8 +23,6 @@ https://www.youtube.com/watch?v=ZORzsubQA_M
 
 ## Requirements (Experimental Design)
 
-(remove: You should start by specifying a set of requirements. I specified a topic Smart Cities but what exactly does that mean-  you should practice formulating your own set of requirements and an experiment. Define a hypothesis of a problem cities face and how a smart city would possibly help alleviate this issue. This helps you think about your problem communication and system objectives inputs, functions, and outputs - they should be clearly specified.)
-
 A major problem cities face is overcrowding, pollution and lack of recreation.  The flip side is access to urban areas.  This paper proposes the following experiment.  Can the creation of green space be conducted while still maintaining a reasonable access?  The requirements follow:
 1)  Given an urban area of (n) size wherein all the streets are closed to public traffic.
 2)  Given public transportation is available (scalable) in the same area.
@@ -39,7 +37,7 @@ A major problem cities face is overcrowding, pollution and lack of recreation.  
      c)  Public bike/pedestrian paths delineated throughout area (set)
           1 - pedestrians can only travel on pedestrian path
           2 - pedestrians can only travel 2.5 mph
-3)  Commuter debarkation points set; no more than four (4)
+3) Commuter debarkation points set; no more than four (4)
 4) Public interaction random AND set  -- population (p) size feasible for area (n) of consideration!
      a)  random population living within urban area traversing area from point A (home) to point B (work)
      b)  random population commute to debarkation point (parking garage) and traversing area from point A (parking garage) to point B (work)
