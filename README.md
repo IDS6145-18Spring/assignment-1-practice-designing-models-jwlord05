@@ -77,3 +77,6 @@ The attached MD file explains what type of simluation is used and why: [**John L
 
 ## **P**ortable **O**rganic **T**rouble-free **S**elf-watering System (**POTS**) Model
 Here [**we provide an overview**](code/POTS_system/README.md) of the **P**ortable **O**rganic **T**rouble-free **S**elf-watering System (**POTS**) Model and provide a source code template.
+
+
+From code to diagram.  This is an intitial/simplified attempt to take the POTS code (given by instructor) and convert it back to a class diagram [**POTS Class Diagram**](code/POTS diagram.md) 
