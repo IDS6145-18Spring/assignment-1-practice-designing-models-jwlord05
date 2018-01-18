@@ -69,11 +69,11 @@ These diagrams are not used (Behavior and Agent)
 
 ## Smart City (My Problem) Simulation
 
-The attached MD file explains what type of simluation is used and why: [**John Lord**](analysis/John Lord.md) 
+The attached MD file explains what type of simluation is used and why: [**John Lord**](analysis/John Lord.md)
 
 
 ## Smart City (My Problem) Model
-[**Code template**](code/README.md) - Starting coding framework for the (insert your exact problem here.)
+[**Code template**](code/README.md) - Starting coding framework for the green city project.  This code will allow users to assertain the average time utalized by commuters to go from point A to point B.
 
 ## **P**ortable **O**rganic **T**rouble-free **S**elf-watering System (**POTS**) Model
 Here [**we provide an overview**](code/POTS_system/README.md) of the **P**ortable **O**rganic **T**rouble-free **S**elf-watering System (**POTS**) Model and provide a source code template.
